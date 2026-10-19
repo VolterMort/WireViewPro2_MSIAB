@@ -1,0 +1,7 @@
+LIBRARY WireViewPro2
+EXPORTS
+    GetSourcesNum
+    GetSourceDesc
+    GetSourceData
+    Uninit
+    SetupSource
