@@ -9,6 +9,10 @@ readings in the on-screen display (OSD) through RivaTuner Statistics Server
 In-game OSD readings and the Pause > official application > Resume workflow
 have been tested on one personal PC. See the tested configuration below.
 
+<p align="center">
+  <img width="406" height="628" alt="WireView Pro II Stats" src="https://github.com/user-attachments/assets/b2027a7a-db90-4b56-9ce1-1bf11fefc6fd" />
+</p>
+
 ## Download
 
 Download the ready-to-use `WireViewPro2.dll` from the **Releases** section
